@@ -1,0 +1,2 @@
+# JedilniList
+SmartNinja vaja 
